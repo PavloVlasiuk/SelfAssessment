@@ -1,11 +1,11 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 👂 heard
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js: 🎓 known
+  - Stateful and stateless servers:  👂 heard
   - Nonblocking I/O and slocking code: 🎓 known
-  - Event loop: phases: 🎓 known
-  - Event loop: microtasks and macrotasks: 👂 heard
+  - Event loop: phases: 🖐️ used
+  - Event loop: microtasks and macrotasks: 🖐️ used
   - Garbage collection: 🔬 researched
   - Node.js LTS schedule: 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
@@ -21,58 +21,58 @@
   - Dependencies: package.json and package lock: 🙋 explained
   - Module-based permissions model: 👂 heard
   - Isolation with modularity: 🖐️ used
-  - Dependency injection: 🎓 known
-  - DI containers: 👂 heard
+  - Dependency injection: 🖐️ used
+  - DI containers: 🖐️ used
   - Coupling and cohesion
   - Framework agnostic approach: 🖐️ used
 - Environment
-  - Command line arguments: 👂 heard
+  - Command line arguments: 🙋 explained
   - Node.js CLI: 🖐️ used
-  - Process-based permissions
-  - Graceful shutdown
+  - Process-based permissions: 🎓 known
+  - Graceful shutdown: 👂 heard
   - Clustering: 👂 heard
-  - Watch filesystem changes with --watch: 👂 heard
+  - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API: 👂 heard
   - Web Streams API
-  - Crypto API: 👂 heard
-  - Password hashing with node:crypto.scrypt
-  - Web Crypto API
-  - File system API: sync and async: 👂 heard
+  - Crypto API: 🖐️ used
+  - Password hashing with node:crypto.scrypt: 🖐️ used
+  - Web Crypto API: 🎓 known
+  - File system API: sync and async: 🖐️ used
   - Copy folder recursively
   - Worker threads: 👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici: 🖐️ used
   - node:async_hooks
-  - AsyncLocalStorage
+  - AsyncLocalStorage: 👂 heard
   - AsyncResource
   - Deprecated domain API: 👂 heard
-  - Node.js single executable: 👂 heard
+  - Node.js single executable: 🎓 known
   - Stream back pressure
   - SharedArrayBuffer
   - node:worker_threads: 👂 heard
   - node:child_process: 👂 heard
   - MessageChannel, MessagePort: 🖐️ used
   - BroadcastChannel: 👂 heard
-  - Generating crypto random UUID
+  - Generating crypto random UUID: 👂 heard
   - node:url vs new URL: 🖐️ used
-  - node:assert
+  - node:assert: 👂 heard
   - Internationalization
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer: 👂 heard
-  - Multilayer approach: 👂 heard
+  - Isolation between layer: 🖐️ used
+  - Multilayer approach: 🖐️ used
   - Separation of concerns
-  - Inversion of control: 👂 heard
-  - Dependency injection: 🎓 known
+  - Inversion of control: 🖐️ used
+  - Dependency injection: 🖐️ used
   - GRASP: 👂 heard
-  - SOLID: 👂 heard
+  - SOLID: 🎓 known
   - GoF patterns
-  - Distributed systems
+  - Distributed systems: 👂 heard
   - Highload applications
   - Clean architecture: 👂 heard
-  - DDD: 👂 heard
+  - DDD: 🎓 known
   - Message Queue
   - CQS
   - CQRS
@@ -85,7 +85,7 @@
   - Leaking abstractions
 - Network
   - IP sticky sessions: 👂 heard
-  - Endpoint throttling: 👂 heard
+  - Endpoint throttling: 🎓 known
   - HTTP(S): 🖐️ used
   - TCP/SSL: 🖐️ used
   - UDP: 🎓 known
@@ -94,9 +94,9 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST: 🎓 known
+  - REST: 🖐️ used
   - RPC
-  - Routing: 🎓 known
+  - Routing: 🖐️ used
   - DoS
   - DDoS: 🎓 known
   - XSS
@@ -115,12 +115,12 @@
 - Technique and tools
   - Native test runner
   - Logging: 🎓 known
-  - Application configuring: 👂 heard
+  - Application configuring: 🖐️ used
   - Testing: 👂 heard
   - CI/CD: 👂 heard
   - Readable: 🎓 known
   - Writable: 🎓 known
-  - Transform
+  - Transform: 👂 heard
   - back pressure
   - Buffer: 👂 heard
   - Console: 🎓 known
@@ -130,20 +130,20 @@
   - Availability: 👂 heard
   - Flexibility
 - Data access
-  - Data access layer: 👂 heard
-  - Repository: 👂 heard
+  - Data access layer: 🖐️ used
+  - Repository: 🖐️ used
   - Active record: 👂 heard
   - Query builder
-  - Object-Relational Mapping
+  - Object-Relational Mapping: 🖐️ used
 - Error handling and debugging
-  - Error: 🎓 known
+  - Error: 🖐️ used
   - error.cause: 🎓 known
-  - error.code: 🎓 known
-  - error.message: 🎓 known
+  - error.code: 🖐️ used
+  - error.message: 🖐️ used
   - error.stack: 🎓 known
   - How to avoid mixins: 👂 heard
   - Error.captureStackTrace: 🎓 known
-  - Uncaught exceptions: 🎓 known
+  - Uncaught exceptions: 🖐️ used
   - Heap dump
   - Debugging tools: 🖐️ used
   - Flame graph

@@ -12,14 +12,14 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv: 👂 heard
+  - libuv: 🎓 known
   - Race conditions: 👂 heard
   - Dead locks: 🎓 known 
   - Live locks: 👂 heard
   - Concurrent programming: 🎓 known
   - Parallel programming: 🎓 known
   - Actor Model
-  - Thread: 🖐️ used
+  - Thread: 🙋 explained
   - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🙋 explained
@@ -41,17 +41,17 @@
   - Middleware: 👂 heard
   - Locks: 👂 heard
 - Async adapters and utils
-  - callbackify
+  - callbackify: 👂 heard
   - promisify: 👂 heard
   - asyncify
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter: 🎓 known
-  - Observable/Observer
+  - EventEmitter: 🖐️ used
+  - Observable/Observer: 🖐️ used
   - Readable: 🎓 known
   - Writable: 🎓 known
-  - Transform
+  - Transform: 👂 heard
   - Async Pool: 👂 heard
   - Async Queue
   - Async Collector
@@ -78,7 +78,7 @@
   - JSON: streaming serialization
   - promisify: 👂 heard
   - callbackify
-  - AsyncLocalStorage
+  - AsyncLocalStorage: 👂 heard
   - AsyncResource
 - Techniques
   - async.js library
@@ -86,7 +86,7 @@
   - Async composition
   - Promise.all: 🙋 explained
   - Promise.allSettled: 🙋 explained
-  - Promise.race: 👂 heard
+  - Promise.race: 🎓 known
   - Promise.any: 🙋 explained
   - Web Locks API
   - IPC

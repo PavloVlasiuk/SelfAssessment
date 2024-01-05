@@ -7,7 +7,7 @@
   - async function: 🔬 researched
   - call: 🖐️ used 
   - bind: 🖐️ used
-  - apply: 🎓 known
+  - apply: 🖐️ used
   - instanceof: 🖐️ used
   - ...spread: 🙋 explained
   - ...rest: 🙋 explained
@@ -19,7 +19,7 @@
   - async iterator: 👂 heard
   - chaining: 🙋 explained
   - optional chaining: 🖐️ used
-  - IIFE: 🖐️ used
+  - IIFE: 🙋 explained
   - global: 🙋 explained
   - globalThis: 🙋 explained
   - window: 🙋 explained
@@ -33,13 +33,13 @@
   - void: 🖐️ used
   - yield: 🎓 known
   - await: 🙋 explained
-  - template literal: 🎓 known
+  - template literal: 🙋 explained
   - strict mode: 🙋 explained
   - delete: 🙋 explained
   - in: 🙋 explained
   - super: 🙋 explained
   - Symbol: 🖐️ used
-  - Reflect: 👂 heard
+  - Reflect: 🖐️ used
 - Statements
   - if: 🔬 researched
   - while: 🙋 explained
@@ -47,7 +47,7 @@
   - for: 🙋 explained
   - for..in: 🔬 researched
   - for..of: 🔬 researched
-  - for await
+  - for await: 🎓 known
   - throw: 🙋 explained
   - break: 🙋 explained
   - continue: 🙋 explained
@@ -77,7 +77,7 @@
   - Proxy: 🎓 known
   - weak collections: 👂 heard
   - timers: 🖐️ used
-  - EventEmitter: 🎓 known
+  - EventEmitter: 🖐️ used
   - RegExp: 🙋 explained
   - Date: 🖐️ used
   - BigInt: 🖐️ used

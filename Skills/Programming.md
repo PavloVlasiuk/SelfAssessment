@@ -9,7 +9,7 @@
   - literal: 🔬 researched
   - expression: 🔬 researched
   - heap: 🔬 researched
-  - function: 🚀 constructed
+  - function: 🔬 researched
   - procedure: 🔬 researched
   - method: 🔬 researched
   - class: 🔬 researched
@@ -25,8 +25,8 @@
   - loops: 🙋 explained
   - assignment: 🙋 explained
   - regular expression: 🙋 explained
-  - interface: 🖐️ used
-  - contract: 👂 heard
+  - interface: 🙋 explained
+  - contract: 🎓 known
   - module: 🙋 explained
   - call stack: 🔬 researched
 - Functions
@@ -51,7 +51,7 @@
   - monad
   - monoid
   - generator: 🎓 known
-  - coroutine: 
+  - coroutine: 👂 heard
 - Data structures
   - array: 🔬 researched
   - structure: 🔬 researched
@@ -75,11 +75,11 @@
   - iterator: 🖐️ used
   - mutable state: 🎓 known
   - immutable state: 🎓 known
-  - serialization
+  - serialization: 🎓 known
   - string parsing: 🙋 explained
 - Process & style
   - compiler: 🙋 explained
-  - transpiler: 👂 heard
+  - transpiler: 🎓 known
   - linter: 🔬 researched
   - polyfill: 🙋 explained
   - debugger: 🙋 explained
@@ -101,6 +101,6 @@
   - duplicate code: 🙋 explained
   - exception: 🔬 researched
   - return early: 🔬 researched
-  - unittest: 👂 heard
+  - unittest: 🖐️ used
   - git: 🔬 researched
   - github: 🔬 researched
