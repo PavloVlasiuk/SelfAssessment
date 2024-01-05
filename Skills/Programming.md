@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value: 🔬 researched
+  - identifier: 🔬 researched
+  - variable: 🔬 researched
+  - constant: 🔬 researched
+  - scalar: 🔬 researched
+  - literal: 🔬 researched
+  - expression: 🔬 researched
+  - heap: 🔬 researched
+  - function: 🚀 constructed
+  - procedure: 🔬 researched
+  - method: 🔬 researched
+  - class: 🔬 researched
+  - prototype: 🔬 researched
+  - event: 🔬 researched
+  - type: 🔬 researched
+  - primitive types: 🔬 researched
+  - reference types: 🔬 researched
+  - flag: 🙋 explained
+  - lexical scope: 🙋 explained
+  - code block: 🔬 researched
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
+  - assignment: 🙋 explained
+  - regular expression: 🙋 explained
+  - interface: 🖐️ used
+  - contract: 👂 heard
+  - module: 🙋 explained
+  - call stack: 🔬 researched
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
+  - signature: 🙋 explained
+  - argument: 🔬 researched
+  - parameter: 🔬 researched
+  - pure function: 🙋 explained
+  - lambda expression: 🔬 researched
+  - side effects: 🎓 known
+  - closure: 🔬 researched
+  - partial application: 🙋 explained
+  - curry: 🖐️ used
+  - higher order: 🙋 explained
+  - recursion: 🔬 researched
+  - callback: 🔬 researched
+  - listener: 🙋 explained
+  - compose: 🎓 known
+  - pipe: 🙋 explained
+  - memoize: 🙋 explained
+  - wrapper: 🖐️ used
+  - functor: 👂 heard
   - monad
   - monoid
-  - generator
-  - coroutine
+  - generator: 🎓 known
+  - coroutine: 
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
+  - array: 🔬 researched
+  - structure: 🔬 researched
+  - record: 🖐️ used
+  - enum: 🙋 explained
+  - instance: 🙋 explained
+  - object: 🔬 researched
+  - class: 🔬 researched
+  - collection: 🙋 explained
+  - set: 🙋 explained
+  - hash table: 🎓 known
+  - linked list: 🙋 explained
+  - doubly list: 🎓 known
+  - unrolled list: 🎓 known
+  - circular list: 🙋 explained
+  - queue: 🙋 explained
+  - stack: 🙋 explained
+  - deque: 👂 heard
+  - tree: 🖐️ used
+  - graph: 🖐️ used
+  - iterator: 🖐️ used
+  - mutable state: 🎓 known
+  - immutable state: 🎓 known
   - serialization
-  - string parsing
+  - string parsing: 🙋 explained
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - compiler: 🙋 explained
+  - transpiler: 👂 heard
+  - linter: 🔬 researched
+  - polyfill: 🙋 explained
+  - debugger: 🙋 explained
+  - garbage collection: 🔬 researched
+  - refactoring: 🔬 researched
+  - code review: 🔬 researched
+  - antipatterns: 🎓 known
+  - paradigm:  🙋 explained
+  - algorithm:  🔬 researched
+  - magic numbers: 🙋 explained
+  - hardcode: 🙋 explained
+  - complexity: 🙋 explained
+  - decomposition: 🙋 explained
+  - spaghetti: 🎓 known
+  - silver bullet: 👂 heard
+  - not invented here: 🖐️ used
+  - dead code: 🎓 known
+  - unreachable code: 🙋 explained
+  - duplicate code: 🙋 explained
+  - exception: 🔬 researched
+  - return early: 🔬 researched
+  - unittest: 👂 heard
+  - git: 🔬 researched
+  - github: 🔬 researched
