@@ -13,10 +13,10 @@
   - Concurrent computing: 🎓 known
   - Asyncronous programming: 🙋 explained
   - Parallel programming: 🎓 known
-  - Reactive programming: 👂 heard
+  - Reactive programming: 🖐️ used
   - FRP (Functional-reactive)
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming: 👂 heard
   - Actor model
@@ -36,17 +36,17 @@
   - Abstract class: 🙋 explained
   - Interface: 🖐️ used
   - Encapsulation: 🙋 explained
-  - Hidden class: 👂 heard
+  - Hidden class: 🖐️ used
   - Object form: 🎓 known
   - instance: 🙋 explained
   - Introspection: 🖐️ used
-  - Reflection
+  - Reflection: 🖐️ used
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method: 👂 heard
+  - Singleton: 🙋 explained
+  - Factory Method: 🖐️ used
   - Abstract Factory: 👂 heard
-  - Adapter
-  - Observer
+  - Adapter: 🖐️ used
+  - Observer: 🖐️ used
   - Strategy: 👂 heard
   - Facade
   - Proxy: 👂 heard
@@ -57,10 +57,10 @@
   - Bridge
   - Builder: 👂 heard
   - Prototype: 🖐️ used
-  - Composite: 👂 heard
+  - Composite: 🖐️ used
   - Decorator: 👂 heard
   - Flyweight
-  - Mediator
+  - Mediator: 👂 heard
   - Memento
   - Template Method: 👂 heard
-  - Visitor
+  - Visitor: 👂 heard
